@@ -1,3 +1,2 @@
 # hello-world
-first repository
-Electrical Engineer by profession, Software Developer by passion
+New site for a Developer
